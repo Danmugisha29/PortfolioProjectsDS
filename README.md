@@ -1,4 +1,4 @@
-# PortfolioProjectsDS
+# Covid-data-Exploratory-Analysis
 
 This project is a SQL data exploratory analysis on two Covid-19 datasets, which include Covid-19 deaths and Covid-19 vaccinations. The Covid-19 deaths dataset was
 compressed due to it being large and not being able to upload, however this file contains information about covid-19 confirmed deaths worldwide. The Covid vaccinations dataset 
