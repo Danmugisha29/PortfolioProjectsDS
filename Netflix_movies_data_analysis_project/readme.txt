@@ -1,4 +1,4 @@
-Netflix movies data analyis
+Netflix movies data analysis
 
 - Datasets used : available in the Github folder
 - Program used : Python
