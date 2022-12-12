@@ -1,6 +1,14 @@
-This project is a SQL data exploratory analysis project that contains two datasets which include Covid-deaths and Covid-Vaccinations.
-This file contains two datasets that were collected from the following sites:
+
+# Description
+This project is an exploratory data analysis that was done on two datasets mainly Covid-Deaths and Covid-Vaccinations. The Exploratory analysis include
+
+# About Dataset files
+This file contains the two datasets that were collected through out the analysis:
 # https://ourworldindata.org/covid-deaths
 # https://ourworldindata.org/covid-vaccinations
-The file also contains the script file with the queries that were utilized during the EDA process to further understand and gain
-insights on both datasets.
+
+# Demonstrated Skills
+
+The skills demonstrated through the EDA process include aggregate functions, Joins, CTE's, Temp Tables, Windows Functions,
+Aggregate Functions, Views creation, Data Types conversion
+
